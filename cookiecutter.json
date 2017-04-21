@@ -1,8 +1,8 @@
 {
-  "author_name": "Nathan Urwin",
-  "author_email": "tuxredux2@gmail.com",
-  "git_username": "tuxredux",
-  "repository_namespace": "webevllc",
+  "author_name": "Stu Heiss",
+  "author_email": "stu@stuheiss.com",
+  "git_username": "stuheiss",
+  "repository_namespace": "stuheiss",
   "repository_slug": "cookiecutter-git-example",
   "repository_description": "An example cookiecutter-git project",
   "package_name": "example_package",
